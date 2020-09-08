@@ -19,7 +19,7 @@ fork [https://github.com/CCChieh/IBMYes](https://github.com/CCChieh/IBMYes)
 * 点击右侧 创建
 
 ### 配置 Cloudflare   高速节点中转
-这部分不配置也可以直接连 应用程序域名 使用, 就是有点慢.
+这部分不配置也可以直接连 应用程序域名    使用, 就是有点慢.
 * 注册并登录[https://www.cloudflare.com/](https://www.cloudflare.com/)
 * 点击 Workers
 * 点击 创建Worker
