@@ -43,8 +43,8 @@ addEventListener(
 * 点击右上角 Fork 到自己的github下, 点击 Settings
 * 点击 `Secrets` 建立以下几个`secret`:  
   `IBM_ACCOUNT`:　　　IBM Cloud的登录邮箱和密码, 一行邮箱, 一行密码.  
-  `IBM_APP_NAME`:　　应用的名称.  
-  `RESOURSE_ID`:　　　资源组ID, 只有一个应用可以不用. 可以在IBM Cloud的管理->账户->资源组里面找到.  
+  `IBM_APP_NAME`:　　应用的名称.        
+  `RESOURSE_ID`:　　　资源组ID, 只有一个应用可以不用. 可以在IBM Cloud的管理->账户->资源组里面找到.   
   `V2_ID`:　　　　　　vmess id  
   `V2_PATH`:　　　　　ws path  
   `ALTER_ID`:　　　　alterId  
